@@ -1,0 +1,6 @@
+[submodule "frontend_repo"]
+	path = frontend
+	url = https://github.com/dauphaihau/arc-fe
+[submodule "backend"]
+	path = backend
+	url = https://github.com/dauphaihau/arc-be
