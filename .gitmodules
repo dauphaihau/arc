@@ -1,6 +1,0 @@
-[submodule "arc-fe"]
-	path = arc-fe
-	url = https://github.com/dauphaihau/arc-fe
-[submodule "arc-be"]
-	path = arc-be
-	url = https://github.com/dauphaihau/arc-be
